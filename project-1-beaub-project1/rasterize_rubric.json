@@ -1,0 +1,9 @@
+{
+  "GfxProvidedCodeTest" : 4,
+  "RasterizeLineSinglePixel" : 2,
+  "RasterizeLineDifferentColors" : 2,
+  "RasterizeLineHorizontal" : 2,
+  "RasterizeLineVertical" : 2,
+  "RasterizeLineDiagonal" : 2,
+  "RasterizeLineGeneralSlope" : 2
+}

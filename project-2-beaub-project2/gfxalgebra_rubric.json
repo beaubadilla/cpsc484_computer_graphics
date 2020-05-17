@@ -1,0 +1,13 @@
+{
+  "GfxVectorProvidedCode" : 3,
+  "GfxVectorMiscOperators" : 1,
+  "GfxVectorDotAndCrossProduct" : 1,
+  "GfxVectorConversions" : 1,
+  "GfxVectorMiscFunctions" : 1,
+  "GfxMatrixProvidedCode" : 3,
+  "GfxMatrixMiscOperators" : 1,
+  "GfxMatrixMultiply" : 1,
+  "GfxMatrixMiscFunctions" : 1,
+  "GfxMatrixDeterminant" : 1,
+  "GfxMatrixSolve" : 1
+}

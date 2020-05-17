@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="11" failures="0" disabled="0" errors="0" timestamp="2019-03-22T00:23:50" time="0.007" name="AllTests">
+  <testsuite name="GfxVectorProvidedCode" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxVectorProvidedCode" status="run" time="0" classname="GfxVectorProvidedCode" />
+  </testsuite>
+  <testsuite name="GfxVectorMiscOperators" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxVectorProvidedCode" status="run" time="0" classname="GfxVectorMiscOperators" />
+  </testsuite>
+  <testsuite name="GfxVectorDotAndCrossProduct" tests="1" failures="0" disabled="0" errors="0" time="0.002">
+    <testcase name="GfxVectorProvidedCode" status="run" time="0" classname="GfxVectorDotAndCrossProduct" />
+  </testsuite>
+  <testsuite name="GfxVectorConversions" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxVectorProvidedCode" status="run" time="0" classname="GfxVectorConversions" />
+  </testsuite>
+  <testsuite name="GfxVectorMiscFunctions" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxVectorProvidedCode" status="run" time="0" classname="GfxVectorMiscFunctions" />
+  </testsuite>
+  <testsuite name="GfxMatrixProvidedCode" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixProvidedCode" />
+  </testsuite>
+  <testsuite name="GfxMatrixMiscOperators" tests="1" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixMiscOperators" />
+  </testsuite>
+  <testsuite name="GfxMatrixMultiply" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixMultiply" />
+  </testsuite>
+  <testsuite name="GfxMatrixMiscFunctions" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixMiscFunctions" />
+  </testsuite>
+  <testsuite name="GfxMatrixDeterminant" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixDeterminant" />
+  </testsuite>
+  <testsuite name="GfxMatrixSolve" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="GfxMatrixProvidedCode" status="run" time="0" classname="GfxMatrixSolve" />
+  </testsuite>
+</testsuites>

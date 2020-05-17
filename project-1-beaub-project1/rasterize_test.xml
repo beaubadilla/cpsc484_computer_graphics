@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="18" failures="0" disabled="0" errors="0" timestamp="2019-03-01T00:06:32" time="1.016" name="AllTests">
+  <testsuite name="GfxProvidedCodeTest" tests="9" failures="0" disabled="0" errors="0" time="0.028">
+    <testcase name="IntegersApproxEqual" status="run" time="0.001" classname="GfxProvidedCodeTest" />
+    <testcase name="FractionsApproxEqual" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="SubnormalsApproxEqual" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="ImageTopLevelFunctions" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="HdrRgb" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="ColorConstants" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="HdrImage" status="run" time="0.014" classname="GfxProvidedCodeTest" />
+    <testcase name="PngRead" status="run" time="0" classname="GfxProvidedCodeTest" />
+    <testcase name="PngWrite" status="run" time="0.001" classname="GfxProvidedCodeTest" />
+  </testsuite>
+  <testsuite name="RasterizeLineSinglePixel" tests="1" failures="0" disabled="0" errors="0" time="0.124">
+    <testcase name="RasterizeLineSinglePixel" status="run" time="0.123" classname="RasterizeLineSinglePixel" />
+  </testsuite>
+  <testsuite name="RasterizeLineDifferentColors" tests="1" failures="0" disabled="0" errors="0" time="0.106">
+    <testcase name="RasterizeLineDifferentColors" status="run" time="0.105" classname="RasterizeLineDifferentColors" />
+  </testsuite>
+  <testsuite name="RasterizeLineHorizontal" tests="1" failures="0" disabled="0" errors="0" time="0.105">
+    <testcase name="RasterizeLineHorizontal" status="run" time="0.104" classname="RasterizeLineHorizontal" />
+  </testsuite>
+  <testsuite name="RasterizeLineVertical" tests="1" failures="0" disabled="0" errors="0" time="0.11">
+    <testcase name="RasterizeLineVertical" status="run" time="0.11" classname="RasterizeLineVertical" />
+  </testsuite>
+  <testsuite name="RasterizeLineDiagonal" tests="1" failures="0" disabled="0" errors="0" time="0.105">
+    <testcase name="RasterizeLineDiagonal" status="run" time="0.104" classname="RasterizeLineDiagonal" />
+  </testsuite>
+  <testsuite name="RasterizeLineGeneralSlope" tests="4" failures="0" disabled="0" errors="0" time="0.438">
+    <testcase name="EntireNorthWestQuadrant" status="run" time="0.109" classname="RasterizeLineGeneralSlope" />
+    <testcase name="EntireNorthEastQuadrant" status="run" time="0.108" classname="RasterizeLineGeneralSlope" />
+    <testcase name="EntireSouthWestQuadrant" status="run" time="0.108" classname="RasterizeLineGeneralSlope" />
+    <testcase name="EntireSouthEastQuadrant" status="run" time="0.106" classname="RasterizeLineGeneralSlope" />
+  </testsuite>
+</testsuites>
